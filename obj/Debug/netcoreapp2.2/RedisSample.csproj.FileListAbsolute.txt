@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/RedisSample/bin/Debug/netcoreapp2.2/RedisSample.deps.json
+/Users/burakcaglayan/Projects/RedisSample/bin/Debug/netcoreapp2.2/RedisSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/RedisSample/bin/Debug/netcoreapp2.2/RedisSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/RedisSample/bin/Debug/netcoreapp2.2/RedisSample.dll
+/Users/burakcaglayan/Projects/RedisSample/bin/Debug/netcoreapp2.2/RedisSample.pdb
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.dll
+/Users/burakcaglayan/Projects/RedisSample/obj/Debug/netcoreapp2.2/RedisSample.pdb
